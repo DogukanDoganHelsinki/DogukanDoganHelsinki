@@ -26,4 +26,4 @@
 
 <p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukandoganhelsinki&show_icons=true&locale=en&layout=compact" alt="dogukandoganhelsinki" /></p>
 <p>&nbsp;<img align="right" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=dogukandoganhelsinki&show_icons=true&locale=en" alt="dogukandoganhelsinki" /> </p> <br>
-<p><img align="center" width="800" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukandoganhelsinki&" alt="dogukandoganhelsinki" /></p>
+<p><img align="left" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukandoganhelsinki&" alt="dogukandoganhelsinki" /></p>
