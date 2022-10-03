@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hei 👋, Mä olen Dogan!</h1>
+<h1 align="center">Hei  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Mä olen Dogan!</h1>
 <h3 align="center">A passionate software developer based in Helsinki.</h3>
 <img align="right" alt="dCoding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
