@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukandoganhelsinki&label=Profile%20views&color=0e75b6&style=flat" alt="dogukandoganhelsinki" /> </p>
 
-- 🔭 I’m currently working on **Legend Srm**
+- 🔭 I’m currently training at **Taika3D**
 
-- 🌱 I’m currently learning **ReactJs and C#**
+- 🌱 I’m currently learning **ReactJs and Test Automation**
 
 - 💬 Ask me about **Javascript, ReactJs and Kotlin**
 
