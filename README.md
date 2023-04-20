@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Taika3D**
 
-- 🌱 I’m currently learning **ReactJs and ThreeJs**
+- 🌱 I’m learning **ThreeJs and the Test Automation**
 
 - 💬 Ask me about **Javascript, ReactJs and Kotlin**
 
